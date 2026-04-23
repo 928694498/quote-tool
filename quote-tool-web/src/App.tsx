@@ -1,3 +1,4 @@
+// YDH 报价工具箱 v2.0 - 2026.04.24 deploy
 import { useState, useCallback } from 'react';
 import * as XLSX from 'xlsx';
 import {
