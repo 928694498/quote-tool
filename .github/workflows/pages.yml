@@ -3,9 +3,6 @@ name: Deploy quote-tool-web to GitHub Pages
 on:
   push:
     branches: [main]
-    paths:
-      - 'quote-tool-web/**'
-      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 permissions:
